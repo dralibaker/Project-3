@@ -15,7 +15,7 @@ To get started in building recommendations, we first found the most popular arti
 ## III. User-User Based Collaborative Filtering
 In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users. You will implement this next.
 
-## V. Matrix Factorization
+## IV. Matrix Factorization
 Finally, we completed an ML approach to building recommendations. Using the user-item interactions, we built out a matrix decomposition. Using decomposition, we got an idea of how well we can predict new articles an individual might interact with.
 
 ## V. Results & Discussion 
